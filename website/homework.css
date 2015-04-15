@@ -187,6 +187,7 @@ nav a{
 
 nav:hover li{
 transition-duration: .3s;
+transition-delay: .5s;
 top: 0px;
 }
 
